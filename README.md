@@ -33,7 +33,7 @@
 
 ## Project Description
 
-This project is a simple web application that allows users to change the background color of a web page by clicking a button. It is implemented using HTML, CSS, and JavaScript.
+This project allows users to increment, decrement, and reset a counter, showcasing fundamental JavaScript functions and DOM manipulation.
 
 <h3 align="left">🛠 Language and tools</h3>
 
