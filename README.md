@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 ### Prerequisites
-- Visual Studio Code
+- Download Visual Studio Code : [https://code.visualstudio.com/Download]
 - Live Server extension for Visual Studio Code (optional but recommended)
 
 ### Step-by-Step Setup
